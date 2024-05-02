@@ -22,5 +22,7 @@ public class App
     public void div() {
     	System.out.println((134.0/12));
     }
-
+    public void add() {
+    	System.out.println(1223+1232);
+    }
 }
