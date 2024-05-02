@@ -1,7 +1,7 @@
 package com.nt.payment;
 
 public class cardpayment {
-public String doPayment() {
-	return "Casrd payment is done";
+public String doPayment(long cardno,long account) {
+	return "Card payment is done";
 }
 }
